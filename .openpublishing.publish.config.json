@@ -31,5 +31,7 @@
   ],
   "need_generate_pdf_url_template": false,
   "need_generate_pdf": false,
-  "use_docfxv3": false
+  "docs_build_engine": {
+    "name": "docfx_v2"
+  }
 }
